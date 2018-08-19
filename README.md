@@ -15,4 +15,4 @@ Just another To-Do List application built for iOS 12 with Swift 4.2
 <p>-----------------------------------------------------------------------------</p>
 
 Thank you for looking at my code. :smile:  
-Source: [Lorenzo Baldassarri ©](lorenzobaldassarri.ddns.net/LB)
+Source: [Lorenzo Baldassarri ©](https://lorenzobaldassarri.ddns.net/LB)
