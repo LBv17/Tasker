@@ -6,7 +6,13 @@ Just another To-Do List application built for iOS 12 with Swift 4.2
 * Add Lists with Tasks you would like to complete
 * Design customization (Dark & Light Theme, Blur)
 
-### Todo 
+### Todo:
 * Secure API, key is only stored in userdefaults as string for now (terrible idea)
 * Add Notifications
 * Add password reset capability to API and App 
+
+###### Notice: The XCode project will be uploaded as soon.
+<p>-----------------------------------------------------------------------------</p>
+
+Thank you for looking at my code. :smile:  
+Source: [Lorenzo Baldassarri ©](lorenzobaldassarri.ddns.net/LB)
