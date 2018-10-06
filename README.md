@@ -10,7 +10,7 @@ Just another To-Do List application built for iOS 12 with Swift 4.2
 * Secure API, key is only stored in userdefaults as string for now (terrible idea)
 * Add Notifications
 * Add password reset capability to API and App 
-
+* enums for UIColors
 ###### Notice: The XCode project will be uploaded as soon.
 <p>-----------------------------------------------------------------------------</p>
 
